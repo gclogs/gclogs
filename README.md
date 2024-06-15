@@ -7,9 +7,11 @@
 
 <!--내용 부분-->
 <p>
+  <!--
   <a align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=gclogs&show_icons=true" />
   </a>
+  -->
   
   <p align="left">👨‍💻 Tech Stack</p>
   
