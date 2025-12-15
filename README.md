@@ -1,6 +1,4 @@
 ---
-<img align="left" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gclogs&layout=compact&theme=dracula&langs_count=14"/>
-<div align="center">
 
 ### 👨‍💻 Tech Stack
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&"/>
