@@ -1,3 +1,3 @@
 ---
-mineboard.org
+[mineboard.org](https://mineboard.org)
 운영 예정
